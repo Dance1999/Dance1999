@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Koena 
 - 👀 I’m interested in ...Health Sciences,Coding,art
-- 🌱 I’m currently learning ... How to 
+- 🌱 I’m currently learning ... The basics of software engineering
 - 💞️ I’m looking to collaborate on ... Beginner projects and coding in health care industry 
 - 📫 How to reach me ... koena.lichabavds@gmail.com / Instagram: koena_lichaba
 
